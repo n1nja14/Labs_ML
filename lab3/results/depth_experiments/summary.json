@@ -1,0 +1,32 @@
+{
+    "1_layer": {
+        "final_train_acc": 0.9935166666666667,
+        "final_test_acc": 0.9735,
+        "params": 101770,
+        "training_time_sec": 163.87039637565613
+    },
+    "2_layers": {
+        "final_train_acc": 0.9933333333333333,
+        "final_test_acc": 0.9769,
+        "params": 235146,
+        "training_time_sec": 138.2068338394165
+    },
+    "3_layers": {
+        "final_train_acc": 0.9932666666666666,
+        "final_test_acc": 0.9787,
+        "params": 567434,
+        "training_time_sec": 180.6654224395752
+    },
+    "5_layers": {
+        "final_train_acc": 0.99255,
+        "final_test_acc": 0.9797,
+        "params": 575050,
+        "training_time_sec": 200.2408103942871
+    },
+    "7_layers": {
+        "final_train_acc": 0.9919666666666667,
+        "final_test_acc": 0.9823,
+        "params": 576586,
+        "training_time_sec": 201.32732009887695
+    }
+}

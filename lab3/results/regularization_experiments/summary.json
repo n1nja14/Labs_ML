@@ -1,0 +1,44 @@
+{
+    "no_regularization": {
+        "final_train_acc": 0.9924166666666666,
+        "final_test_acc": 0.9818,
+        "params": 242762,
+        "training_time_sec": 116.02450180053711
+    },
+    "dropout_0.1": {
+        "final_train_acc": 0.9880833333333333,
+        "final_test_acc": 0.9804,
+        "params": 242762,
+        "training_time_sec": 120.55485081672668
+    },
+    "dropout_0.3": {
+        "final_train_acc": 0.97625,
+        "final_test_acc": 0.9796,
+        "params": 242762,
+        "training_time_sec": 128.94516277313232
+    },
+    "dropout_0.5": {
+        "final_train_acc": 0.9553666666666667,
+        "final_test_acc": 0.9745,
+        "params": 242762,
+        "training_time_sec": 122.11025023460388
+    },
+    "batchnorm": {
+        "final_train_acc": 0.9928166666666667,
+        "final_test_acc": 0.9823,
+        "params": 243658,
+        "training_time_sec": 125.88785696029663
+    },
+    "dropout+batchnorm": {
+        "final_train_acc": 0.9736,
+        "final_test_acc": 0.9829,
+        "params": 243658,
+        "training_time_sec": 138.54019260406494
+    },
+    "l2_regularization": {
+        "final_train_acc": 0.9895666666666667,
+        "final_test_acc": 0.9735,
+        "params": 242762,
+        "training_time_sec": 158.89504885673523
+    }
+}

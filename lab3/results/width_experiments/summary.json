@@ -1,0 +1,26 @@
+{
+    "narrow": {
+        "final_train_acc": 0.9856333333333334,
+        "final_test_acc": 0.9742,
+        "params": 53018,
+        "training_time_sec": 143.73240900039673
+    },
+    "medium": {
+        "final_train_acc": 0.9927666666666667,
+        "final_test_acc": 0.9802,
+        "params": 242762,
+        "training_time_sec": 159.2709481716156
+    },
+    "wide": {
+        "final_train_acc": 0.9930333333333333,
+        "final_test_acc": 0.9808,
+        "params": 1462538,
+        "training_time_sec": 206.95123767852783
+    },
+    "very_wide": {
+        "final_train_acc": 0.9927166666666667,
+        "final_test_acc": 0.9794,
+        "params": 4235786,
+        "training_time_sec": 371.2424876689911
+    }
+}
